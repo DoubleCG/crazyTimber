@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0d718abc-cbb6-44de-ad18-03a4acaf3786",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dieStone": {
+      "ver": "1.0.3",
+      "uuid": "c1d552b3-7dce-4264-bc81-37de6b5922e5",
+      "rawTextureUuid": "0d718abc-cbb6-44de-ad18-03a4acaf3786",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 24,
+      "height": 21,
+      "rawWidth": 25,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
